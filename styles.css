@@ -3,6 +3,13 @@
     height: 100px;
     background-color: red;
     position: relative;
+    border-style: solid;
+    border-width: 10px;
+    border-color: forestgreen;
+    font-family: 'Franklin Gothic Medium';
+    font-size: 20px;
+    color: blue;
+    text-align: center;
 }
 .second-box-container {
     width: 200px;
@@ -11,6 +18,13 @@
     position: relative;
     left: 250px;
     top: -115px;
+    border-style: solid;
+    border-width: 10px;
+    border-color: red;
+    font-family: 'Franklin Gothic Medium';
+    font-size: 20px;
+    color: blue;
+    text-align: center;
 }
 .third-box-container {
     width: 200px;
@@ -19,4 +33,11 @@
     position: relative;
     left: 500px;
     top: -230px;
+    border-style: solid;
+    border-width: 10px;
+    border-color: yellow;
+    font-family: 'Franklin Gothic Medium';
+    font-size: 20px;
+    color: blue;
+    text-align: center;
 }
