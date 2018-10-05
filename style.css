@@ -1,1 +1,4 @@
-p { background-color: red; }
+* { color: maroon; }
+h1 { color: blue; }
+li { color: plum; }
+.jatkuvat { color: red; }
